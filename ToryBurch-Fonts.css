@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'ToryBurch-Black';
+  src: url('https://github.com/alweis1/TBFFont/raw/refs/heads/main/ToryBurch-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ToryBurch-Bold';
+  src: url('https://github.com/alweis1/TBFFont/raw/refs/heads/main/ToryBurch-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ToryBurch-Medium';
+  src: url('https://github.com/alweis1/TBFFont/raw/refs/heads/main/ToryBurch-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}

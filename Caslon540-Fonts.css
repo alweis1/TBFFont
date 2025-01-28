@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Caslon540LTStd-Roman';
+  src: url('https://github.com/alweis1/TBFFont/raw/refs/heads/main/Caslon540LTStd-Roman.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Caslon540LTStd-Italic';
+  src: url('https://github.com/alweis1/TBFFont/raw/refs/heads/main/Caslon540LTStd-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
